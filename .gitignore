@@ -1,0 +1,9 @@
+annotations*
+images*
+__pycache__*
+training*
+train__*
+val_*
+validation*
+*.pth
+
